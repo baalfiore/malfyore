@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @malfyore
 - 👀 I’m interested in c++, video game development, embedd sw development
-- 🌱 I’m currently learning c++, php, js, yii
+- 🌱 I’m currently learning c++, go, python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: leave a comment.
 
